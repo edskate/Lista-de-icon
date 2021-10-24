@@ -1,0 +1,11 @@
+body{
+    width: 50%;
+    height: 50%;
+    margin: 7%;
+}
+h1, h2, li{
+    box-shadow: inset 2px 3px 4px ;
+    text-shadow: 2px 3px 4px ;
+    border: 2px solid;
+    border-radius: 2px ;
+}
